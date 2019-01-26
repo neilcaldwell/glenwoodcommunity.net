@@ -1,0 +1,10 @@
+version: 0.1
+
+phases:
+  build:
+    comands:
+      - echo nothing to do yet
+  artifacts:
+    files:
+      - *.html
+      - images/*
