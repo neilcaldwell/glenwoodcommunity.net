@@ -4,7 +4,7 @@ phases:
   build:
     comands:
       - echo nothing to do yet
-  artifacts:
-    files:
-      - *.html
-      - images/*
+artifacts:
+  files:
+    - *.html
+    - images/*
